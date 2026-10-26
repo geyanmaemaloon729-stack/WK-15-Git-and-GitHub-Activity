@@ -1,3 +1,9 @@
-My First Repository
-Name: Geyan Mae A. Maloon
-Course: BSIT
+# My First Github Respiratory
+
+**Name:** Geyan Mae A. Maloon
+
+**Course:** Introduction to Computing
+
+**Learning Goal:** I am learning how Git and GitHub help people track changes and manage projects.
+
+**My First Commit:** This repository is my first activity in learning version control.
