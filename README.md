@@ -1,2 +1,3 @@
-# WK-15-Git-and-GitHub-Activity
-My Git and GitHub activity
+My First Repository
+Name: Geyan Mae A. Maloon
+Course: BSIT
